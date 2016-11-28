@@ -14,4 +14,4 @@ curl_close($ch);
 
 echo $result;
 
-?php>
+?>
